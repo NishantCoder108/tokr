@@ -1,0 +1,8 @@
+{
+
+"name" :"Example Token",
+"symbol": "EXAP",
+  "description": "This is example token for testing purpose. But it must be deploy on decentralized server , so we can use this.",
+
+  "image": "https://avatars.githubusercontent.com/u/69218488?v=4"
+}
